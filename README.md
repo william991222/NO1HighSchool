@@ -1,5 +1,7 @@
 # NO1Security by 龍大大
 
+![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
+
 ## 上課平台: http://120.114.62.89
 
 > * 高一(每星期五:早上8:00~10:00)
