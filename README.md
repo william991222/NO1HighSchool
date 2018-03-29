@@ -116,7 +116,8 @@ TCP/IP網路基本概論
 ### 6.22
 ### 6.29
 
-
+# Capture the Flag Challenges
+> 有許多漏洞平台的攻擊測試: http://www.hackingarticles.in/capture-flag-challenges/
 
 # 逆向工程初體驗
 
