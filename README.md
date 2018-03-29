@@ -112,7 +112,7 @@ lab6:使用wireshark解CTF的network Forensics題目
 ### MyFirstNetworSecurity:network Forensics 網路鑑識(3小時)
 ### MyFirstCryptanalysis:Crypto破密分析(3小時)
 ### MyFirstPenetration:Windows滲透測試(3小時)
-### MyFirstPenetration:Windows滲透測試(3小時)
+### MyFirstLinuxPenetration:Linux滲透測試(3小時)
 ### MyFirstReversing:逆向工程研習營(2天)
 ### MyFirstWindowsReversing:Windows逆向工程研習營(2天)
 ### MyFirstPwn:漏洞攻擊研習營(2天)
