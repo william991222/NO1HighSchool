@@ -2,7 +2,51 @@
 
 ## 上課平台: http://120.114.62.89
 
+高一(每星期五:早上8:00~10:00)
+
+### 2.23(星期五)早上8:00~10:00 網站漏洞平台建置與測試
+
+xampp server建置 vs appserv建置
+
+lab1:安裝appserv建置
+
+lab2:安裝DVWA網站漏洞平台
+
+lab3:安裝bwapp網站漏洞平台
+
+### 2.27	Linux與CTF
+### 3.2	Linux與CTF
+
+lab1:CTF搶旗大賽的四道基本編碼解題{使用線上工具解題}
+
+lab2:CTF搶旗大賽的四道基本破密分析解題{使用線上工具解題}
+
+lab3:CTF搶旗大賽的兩道web基本解題
+
+lab4:Linux-CTF的十道解題
+
+### 3.6	高三第四次模擬考
+
+### 3.9	網站安全初體驗(MyFirstWebSecurity)
+
+熟悉網站安全測試工具+完成CTF平台練習題
+
+lab1:Developer Tools實測技術
+
+lab2:Robots.txt實測技術
+
+lab3:Curl實測技術
+
+lab4:使用Curl測試HTTP方法
+
+lab5:使用burpsuite竄改HTTP封包
+
+lab6:使用burpsuite竄改HTTP request封包的cookies值
+
+### 3.13 網站安全實測DVWA
+
 ### 3.30	第一次段考
+
 
 ### 4.3(星期二)10:00~12:00 主題:系統安全與滲透測試
 
