@@ -123,6 +123,10 @@ TCP/IP網路基本概論
 
 # PWN
 
+### 超高手準練習平台:https://pwnable.tw/challenge/
+
 ### 練習平台:https://exploit-exercises.com/nebula
+
+### http://pwnable.kr/
 
 
