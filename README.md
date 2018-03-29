@@ -136,6 +136,12 @@ lab6:使用wireshark解CTF的network Forensics題目
 
 ### 練習平台:https://exploit-exercises.com/nebula
 
+
+> * 整理知識，學習筆記
+> * 發佈日記，雜文，所見所想
+> * 撰寫發佈技術文稿（代碼支援）
+> * 撰寫發佈學術論文（LaTeX 公式支持）
+
 工具列上的五個圖示依次為：
 <i class="icon-list"></i> 目錄：快速導航當前文稿的目錄結構以跳轉到感興趣的段落
 <i class="icon-chevron-sign-left"></i> 視圖：互換左邊編輯區和右邊預覽區的位置
