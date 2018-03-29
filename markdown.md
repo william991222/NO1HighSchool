@@ -3,12 +3,16 @@ http://markdown.tw/#img
 
 This is [an example](http://example.com/ "Title") inline link.
 
+------
+
 I get 10 times more traffic from [Google] [1] than from
 [Yahoo] [2] or [MSN] [3].
 
   [1]: http://google.com/        "Google"
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
+
+------
 
 # 高中職生資安研習營
 > *  MyFirstLinux+CTF:FromLinux2CTF(3~4小時)
