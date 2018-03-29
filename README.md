@@ -45,8 +45,13 @@ lab6:使用burpsuite竄改HTTP request封包的cookies值
 
 ### 3.13 網站安全實測DVWA
 
-### 3.30	第一次段考
+### 3.16 Python程式與求解編碼題目
+### 3.20 Python程式與求解編碼題目
 
+### 3.23 使用Python求解破密分析題目
+### 3.27 使用Python求解破密分析題目
+
+### 3.30	第一次段考
 
 ### 4.3(星期二)10:00~12:00 主題:系統安全與滲透測試
 
@@ -69,6 +74,26 @@ lab5:使用Metepreter指令操控遠端被入侵的Windows
 lab6:Windows的net指令與防護技術
 
 ### 4.6	春節調整放假
+
+### 4.13 
+### 4.17
+
+### network Forensics 網路鑑識
+
+TCP/IP網路基本概論
+
+lab1:使用wireshark分析HTTP封包
+
+lab2:使用wireshark分析TCP封包
+
+lab3:使用wireshark分析IP封包格式
+
+lab4:使用wireshark分析DNS封包格式
+
+lab5:使用wireshark分析UDP封包格式
+
+lab6:使用wireshark解CTF的network Forensics題目
+
 
 ### 5.1	高三第六次模擬考
 
