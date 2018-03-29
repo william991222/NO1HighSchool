@@ -108,9 +108,12 @@ lab6:使用wireshark解CTF的network Forensics題目
 ### 5.22
 ### 5.25
 ### 5.29
-### 6.1
 ### 6月	高三畢業 六月後禮拜二不用上課
-
+### 6.1
+### 6.8
+### 6.15
+### 6.22
+### 6.29
 
 # 高中職生資安研習營
 ### MyFirstLinux+CTF:FromLinux2CTF(3~4小時)
