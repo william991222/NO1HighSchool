@@ -136,6 +136,8 @@ lab6:使用wireshark解CTF的network Forensics題目
 
 ### 練習平台:https://exploit-exercises.com/nebula
 
+> 請保留此份 Cmd Markdown 的歡迎稿兼使用說明，如需撰寫新稿件，點擊頂部工具列右側的 <i class="icon-file"></i> **新文稿** 或者使用快速鍵 ‘Ctrl+Alt+N’。
+
 
 > * 整理知識，學習筆記
 > * 發佈日記，雜文，所見所想
