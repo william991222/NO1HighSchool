@@ -82,7 +82,7 @@ lab6:Windows的net指令與防護技術
 ### 4.24
 ### 4.27
 
-### network Forensics 網路鑑識(MyFirstNetworSecurity)
+### Network Forensics 網路鑑識(MyFirstNetworSecurity)
 
 TCP/IP網路基本概論
 
