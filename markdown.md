@@ -2,6 +2,8 @@
 
 http://markdown.tw/#img
 
+< span style="color:red;"> 這裡是紅色… < /span>
+
 This is [an example](http://example.com/ "Title") inline link.
 
 ------
