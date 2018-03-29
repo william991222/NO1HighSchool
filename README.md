@@ -9,11 +9,11 @@
 
 xampp server建置 vs appserv建置
 
-lab1:安裝appserv建置
+> lab1:安裝appserv建置
 
-lab2:安裝DVWA網站漏洞平台
+> lab2:安裝DVWA網站漏洞平台
 
-lab3:安裝bwapp網站漏洞平台
+> lab3:安裝bwapp網站漏洞平台
 
 ### 2.27	Linux與CTF
 ### 3.2	Linux與CTF
