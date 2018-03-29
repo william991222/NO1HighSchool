@@ -105,7 +105,15 @@ lab6:使用wireshark解CTF的network Forensics題目
 
 ###  6月	高三畢業 六月後禮拜二不用上課
 
-### Crypto破密分析(MyFirstCryptanalysis)
+### MyFirstLinux+CTF:FromLinux2CTF(3~4小時)
+### MyFirstWebSecurity:網站安全初體驗(3小時)
+### MyFirstNetworSecurity:network Forensics 網路鑑識(3小時)
+### MyFirstCryptanalysis:Crypto破密分析(3小時)
+### MyFirstPenetration:Windows滲透測試(3小時)
+### MyFirstPenetration:Windows滲透測試(3小時)
+### MyFirstReversing:逆向工程研習營(2天)
+### MyFirstWindowsReversing:Windows逆向工程研習營(2天)
+### MyFirstPwn:漏洞攻擊研習營(2天)
 
 # 逆向工程初體驗
 
