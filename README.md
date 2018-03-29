@@ -78,7 +78,11 @@ lab6:Windows的net指令與防護技術
 ### 4.13 
 ### 4.17
 
-### network Forensics 網路鑑識
+### 4.20 
+### 4.24
+### 4.27
+
+### network Forensics 網路鑑識(MyFirstNetworSecurity)
 
 TCP/IP網路基本概論
 
@@ -101,6 +105,7 @@ lab6:使用wireshark解CTF的network Forensics題目
 
 ###  6月	高三畢業 六月後禮拜二不用上課
 
+### Crypto破密分析(MyFirstCryptanalysis)
 
 # 逆向工程初體驗
 
