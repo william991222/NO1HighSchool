@@ -136,6 +136,15 @@ lab6:使用wireshark解CTF的network Forensics題目
 
 ### 練習平台:https://exploit-exercises.com/nebula
 
+工具列上的五個圖示依次為：
+<i class="icon-list"></i> 目錄：快速導航當前文稿的目錄結構以跳轉到感興趣的段落
+<i class="icon-chevron-sign-left"></i> 視圖：互換左邊編輯區和右邊預覽區的位置
+<i class="icon-adjust"></i> 主題：內置了黑白兩種模式的主題，試試 **黑色主題**，超炫！
+<i class="icon-desktop"></i> 閱讀：心無旁騖的閱讀模式提供超一流的閱讀體驗
+<i class="icon-fullscreen"></i> 全屏：簡潔，簡潔，再簡潔，一個完全沉浸式的寫作和閱讀環境
+
+
+
 ![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
 
 https://www.zybuluo.com/mdeditor
@@ -143,6 +152,7 @@ https://www.zybuluo.com/mdeditor
 ### 2. 书写一个质能守恒公式[^LaTeX]
 
 $$E=mc^2$$
+
 ### 3. 高亮一段代码[^code]
 
 ```python
