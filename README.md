@@ -120,6 +120,7 @@ TCP/IP網路基本概論
 
 # 逆向工程初體驗
 
+> 練習平台: http://reversing.kr/
 
 # PWN
 
