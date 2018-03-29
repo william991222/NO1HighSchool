@@ -1,4 +1,5 @@
 # Markdown文件
+
 http://markdown.tw/#img
 
 This is [an example](http://example.com/ "Title") inline link.
@@ -13,6 +14,8 @@ I get 10 times more traffic from [Google] [1] than from
   [3]: http://search.msn.com/    "MSN Search"
 
 ------
+
+<address@example.com>
 
 *single asterisks*
 
