@@ -64,7 +64,7 @@ xampp server建置 vs appserv建置
 
 > lab1:登入Kali Linux{預設帳密: root/toor}
 
-> lab2:使用Nmap 服務掃描實測
+> lab2:Nmap 服務掃描實測
 
 > lab3:Nmap NSE單一漏洞掃描實測
 
