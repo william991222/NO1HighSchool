@@ -17,8 +17,8 @@ xampp server建置 vs appserv建置
 
 > lab3:安裝bwapp網站漏洞平台
 
-### 2.27	Linux與CTF
-### 3.2	Linux與CTF
+### 2.27	Linux與CTF(MyFirstLinux+CTF)
+### 3.2	Linux與CTF(MyFirstLinux+CTF)
 
 > lab1:CTF搶旗大賽的四道基本編碼解題{使用線上工具解題}
 
