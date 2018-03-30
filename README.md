@@ -118,6 +118,29 @@ TCP/IP網路基本概論
 ### 6.22
 ### 6.29
 
+# 作業:
+>* 完成SkyDog六題練習 https://www.vulnhub.com/entry/skydog-2016-catch-me-if-you-can,166/
+
+Flag #1 Home Sweet Home or (A Picture is worth a Thousand Words)
+
+Flag #2 When do Androids Learn to Walk?
+
+Flag #3 Who Can You Trust?
+
+Flag #4 Who Doesn’t Love a Good Cocktail Party?
+
+Flag #5 another Day at the Office
+
+Flag #6 Little Black Box
+
+[參考解答] http://www.hackingarticles.in/hack-skydog-vm-ctf-challenge/
+
+[參考解答] SkyDog Con 2016 CTF – Walk Through Guide
+ 
+      https://www.jamesbower.com/skydog-con-2016-ctf/
+
+
+
 # Capture the Flag Challenges
 > 有許多漏洞平台的攻擊測試: http://www.hackingarticles.in/capture-flag-challenges/
 
