@@ -51,8 +51,32 @@ xampp server建置 vs appserv建置
 ### 3.16 Python程式與求解編碼題目
 ### 3.20 Python程式與求解編碼題目
 
+> lab1:使用線上工具求解ASCII編碼題
+
+> lab2:使用線上工具求解Base 64編碼題
+
+> lab3:使用線上工具求解Base 32編碼題
+
+> lab4:使用線上工具求解Morse編碼題
+
+> lab5:使用Python求解Base 64/32編碼題
+
+> lab6:使用Python求解CTF編碼題
+
 ### 3.23 使用Python求解破密分析題目
 ### 3.27 使用Python求解破密分析題目
+
+> lab1:使用線上工具求解凱薩密碼之破密分析題
+
+> lab2:使用線上工具進行頻率分析法
+
+> lab3:
+
+> lab4:
+
+> lab5:使用Python求解affine cipher破密分析題
+
+> lab6:使用Python求解CTF破密分析題
 
 ### 3.30	第一次段考
 
