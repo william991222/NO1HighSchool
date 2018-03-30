@@ -34,7 +34,7 @@ xampp server建置 vs appserv建置
 
 熟悉網站安全測試工具+完成CTF平台練習題
 
-> lab1:Developer Tools實測技術
+> lab1:Developer Tools實測技術 https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools
 
 > lab2:Robots.txt實測技術
 
