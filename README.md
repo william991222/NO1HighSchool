@@ -63,8 +63,8 @@ xampp server建置 vs appserv建置
 
 > lab6:使用Python求解CTF編碼題
 
-### 3.23 使用Python求解破密分析題目
-### 3.27 使用Python求解破密分析題目
+### 3.23 使用Python求解破密分析題目{古典密碼}
+### 3.27 使用Python求解破密分析題目{古典密碼}
 
 > lab1:使用線上工具求解凱薩密碼之破密分析題
 
