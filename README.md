@@ -102,12 +102,28 @@ xampp server建置 vs appserv建置
 
 ### 4.6	春節調整放假
 
-### 4.13 
-### 4.17
+### 4.13 主題:系統安全與滲透測試
 
-### 4.20 
-### 4.24
-### 4.27
+須熟悉linux基本指令{上過LINUX入門即可}
+
+課程內容:
+
+> lab1:登入Kali Linux{預設帳密: root/toor}
+
+> lab2:Nmap 服務掃描實測
+
+> lab3:Nmap NSE單一漏洞掃描實測
+
+滲透測試
+
+> lab4:使用metasploit進行Windows 滲透測試
+
+> lab5:使用Metepreter指令操控遠端被入侵的Windows 
+
+> lab6:Windows的net指令與防護技術
+
+### 4.17 Network Forensics 網路鑑識(MyFirstNetworSecurity)
+### 4.20 Network Forensics 網路鑑識(MyFirstNetworSecurity)
 
 ### Network Forensics 網路鑑識(MyFirstNetworSecurity)
 
@@ -125,6 +141,8 @@ TCP/IP網路基本概論
 
 > lab6:使用wireshark解CTF的network Forensics題目
 
+### 4.24
+### 4.27
 
 ### 5.1	高三第六次模擬考
 ### 5.4
