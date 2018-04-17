@@ -7,6 +7,8 @@
 
 ## 上課演練平台:龍大大CTF練習平台 http://120.114.62.89
 
+http://ctf2017.hitcon.org/
+
 ### 2.23(星期五)早上8:00~10:00 網站漏洞平台建置與測試
 
 xampp server建置 vs appserv建置
